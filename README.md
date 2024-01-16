@@ -5,3 +5,5 @@ Advanced Python for backend
 | ------------ | ------------    |
 | `0x00-python_variable_annotations` | --- |
 | `0x01-python_async_function` | Asynchronous functions |
+| `0x02-python_async_comprehension` | Asynchronous Comprehensions/Generators |
+
